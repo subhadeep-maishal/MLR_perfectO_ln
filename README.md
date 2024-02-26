@@ -1,5 +1,5 @@
 # Multiple Linear Regression (MLR)
-Linear, Poisson,  Regression, Negative Binomial
+Linear, Poisson,  Negative Binomial  Regression,
 
 
 
